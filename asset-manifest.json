@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81b7cd5a.chunk.css",
+    "main.js": "/static/js/main.d74fe0bc.chunk.js",
+    "main.js.map": "/static/js/main.d74fe0bc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0becfdfe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0becfdfe.js.map",
+    "static/js/2.b314fa00.chunk.js": "/static/js/2.b314fa00.chunk.js",
+    "static/js/2.b314fa00.chunk.js.map": "/static/js/2.b314fa00.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.81b7cd5a.chunk.css.map": "/static/css/main.81b7cd5a.chunk.css.map",
+    "static/js/2.b314fa00.chunk.js.LICENSE.txt": "/static/js/2.b314fa00.chunk.js.LICENSE.txt",
+    "static/media/Bird.c52e7309.svg": "/static/media/Bird.c52e7309.svg",
+    "static/media/Rabbit.eaa69778.svg": "/static/media/Rabbit.eaa69778.svg",
+    "static/media/Santa.69511e40.svg": "/static/media/Santa.69511e40.svg",
+    "static/media/background.8f407eaf.jpg": "/static/media/background.8f407eaf.jpg",
+    "static/media/ball.e2525c2d.svg": "/static/media/ball.e2525c2d.svg",
+    "static/media/bells.c1c7501e.svg": "/static/media/bells.c1c7501e.svg",
+    "static/media/bruxa1.d069890c.svg": "/static/media/bruxa1.d069890c.svg",
+    "static/media/bruxa2.286c3aca.svg": "/static/media/bruxa2.286c3aca.svg",
+    "static/media/bruxa3.0e8ec5bc.svg": "/static/media/bruxa3.0e8ec5bc.svg",
+    "static/media/chicken.aff93979.svg": "/static/media/chicken.aff93979.svg",
+    "static/media/easter01.b7867410.svg": "/static/media/easter01.b7867410.svg",
+    "static/media/egg.70255b61.svg": "/static/media/egg.70255b61.svg",
+    "static/media/flowers.12888aab.svg": "/static/media/flowers.12888aab.svg",
+    "static/media/frog.c6225874.svg": "/static/media/frog.c6225874.svg",
+    "static/media/gift.d2f5457a.svg": "/static/media/gift.d2f5457a.svg",
+    "static/media/hat.2123051c.svg": "/static/media/hat.2123051c.svg",
+    "static/media/hat.f232a063.svg": "/static/media/hat.f232a063.svg",
+    "static/media/potion.4de83137.svg": "/static/media/potion.4de83137.svg",
+    "static/media/pumpkin.9cc7dff5.svg": "/static/media/pumpkin.9cc7dff5.svg",
+    "static/media/rabbit2.288539d6.svg": "/static/media/rabbit2.288539d6.svg",
+    "static/media/snowflake.63b6ee88.svg": "/static/media/snowflake.63b6ee88.svg",
+    "static/media/treno.59274b41.svg": "/static/media/treno.59274b41.svg",
+    "static/media/unikorn.38b37821.svg": "/static/media/unikorn.38b37821.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0becfdfe.js",
+    "static/js/2.b314fa00.chunk.js",
+    "static/css/main.81b7cd5a.chunk.css",
+    "static/js/main.d74fe0bc.chunk.js"
+  ]
+}
