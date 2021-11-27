@@ -25,7 +25,7 @@ import hat from "../assets/halloween/hat.svg";
 import potion from "../assets/halloween/potion.svg";
 import frog from "../assets/halloween/frog.svg";
 
-//import spikes from "../assets/spikes.svg";
+import arrow_left from "../assets/arrow_left.svg";
 import unikorn from "../assets/unikorn.svg";
 import background from "../assets/background.jpg";
 
@@ -211,6 +211,11 @@ const MemoryGame = () => {
     setItemCount(12);
   };
 
+  const handleBack = () => {
+    setGameOver(true);
+    setGameTheme("");
+  };
+
   const renderGameOver = () => {
     return (
       <div className="gameOver-wrapper">
@@ -303,6 +308,16 @@ const MemoryGame = () => {
   return (
     <div className="content-wrapper">
       <div className="header">
+        {gameTheme && (
+          <div>
+            <img
+              className="arrow-left"
+              src={arrow_left}
+              alt="back"
+              onClick={() => handleBack()}
+            />
+          </div>
+        )}
         <div className="header-title">
           Memory Game: Test your memory with this memory game!
         </div>
